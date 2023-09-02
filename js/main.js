@@ -35,7 +35,7 @@ function firstQuestion() {
         imageUrl: 'img/logi.gif',
         imageWidth: 300,
         imageHeight: 300,
-        background: url("img/a6a54c8b32d00b61cb3cf503bd61cf67_civ98m14msb8eje2dtgg.png"),
+        background: '#fff url("img/iput-bg.jpg")',
         imageAlt: 'Custom image',
         confirmButtonText: CONFIG.btnIntro
     }).then(function() {
@@ -116,7 +116,7 @@ $('#yes').click(function() {
         width: 900,
         padding: '3em',
         html: "<input type='text' class='form-control' id='txtReason' onmousemove=textGenerate()  placeholder='Whyyy'>",
-        background: url("img/a6a54c8b32d00b61cb3cf503bd61cf67_civ98m14msb8eje2dtgg.png"),
+        background: '#fff url("img/iput-bg.jpg")',
         backdrop: `
               rgba(0,0,123,0.4)
               url("img/giphy2.gif")
@@ -131,7 +131,7 @@ $('#yes').click(function() {
             Swal.fire({
                 width: 900,
                 confirmButtonText: CONFIG.btnAccept,
-                background: url("img/a6a54c8b32d00b61cb3cf503bd61cf67_civ98m14msb8eje2dtgg.png"),
+                background: '#fff url("img/iput-bg.jpg")',
                 title: CONFIG.mess,
                 text: CONFIG.messDesc,
                 confirmButtonColor: '#83d0c9',
