@@ -120,7 +120,7 @@ $('#yes').click(function() {
         backdrop: `
               rgba(0,0,123,0.4)
               url("img/giphy2.gif")
-              left top
+              right bottom
               no-repeat
             `,
         confirmButtonColor: '#3085d6',
