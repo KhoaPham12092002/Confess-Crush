@@ -1,7 +1,7 @@
 const CONFIG = {
     titleWeb: "Ngại lắm cơ",
-    introTitle: 'Chào Kim Khánh nhóa. Web này được làm dành tặng riêng Kim Khánh đóa,',
-    introDesc: ` Hình như tui lỡ nốc nhiều nụ cười Kim Khánh quá. Lỡ bị say mê mãn tính Kim Khánh rồi, Toi mất thoi, phải làm sao phải làm sao cho tim thôi nhớ mong`,
+    introTitle: 'Chào Hân nhóa. Web này được làm dành tặng riêng Hân đóa,',
+    introDesc: ` Hình như tui lỡ nốc nhiều nụ cười Hân quá. Lỡ bị say mê mãn tính Hân rồi, Toi mất thoi, phải làm sao phải làm sao cho tim thôi nhớ mong`,
     btnIntro: 'Giúp tui nhaaaaa !!!!',
     title: 'Phải chăng vì nụ cười ấy mà mất ngủ kinh niên 🥰',
     desc: 'Phải chăng vì nụ cười ấy mà ngẫn ngơ thẩn thờ ',
